@@ -1,0 +1,24 @@
+.storyHar, .storyRon, .storyHer, .storySir, .storyDumb {
+  display: none;
+}
+
+body{
+  color: white;
+  text-align: center;
+  margin: 100px;
+  background-image: url("../img/candles.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.form{
+  margin: 50px;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
