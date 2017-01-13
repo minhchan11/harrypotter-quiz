@@ -25,3 +25,15 @@ body{
 h1 {
   text-align: center;
 }
+
+p {
+  font-size: 15px;
+  color: white;
+  font-style: italic;
+  float:right;
+}
+
+img {
+  height: 500px;
+  float: left:
+}
